@@ -1,3 +1,4 @@
+// Task 1: calculate u.
 #include <stdio.h>
 #include <math.h>
 
